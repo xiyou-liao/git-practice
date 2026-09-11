@@ -2,7 +2,7 @@
 
 A small python project I'm using to learn Git and Github.
 
-##What I'm learning:
+## What I'm learning:
 
 - Git repositories
 - Commits
